@@ -69,7 +69,7 @@ const AboutSection = () => {
           <p className="text-base lg:text-lg text-[#ADB7BE] mb-8"> 
             I have started learning coding by moving Karel dog in a virtual two dimensional world. After that, i found some
             great courses on Udemy, Youtube etc. and started diving in a tech ocean. It was hard (still not easy to be honest),
-            but the desire to be become developer was stronger. I'm still learning,  building some web/mobile apps, but most of
+            but the desire to be become developer was stronger. I am still learning,  building some web/mobile apps, but most of
             them are tutorial based. I am quick learner and always looking for expand my knowledge
             and skills. My previous knowledge and experience is mainly based on courses and tutorials, 
             so i am looking for a real world projects and to learn more from my future senior colleagues.

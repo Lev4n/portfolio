@@ -8,9 +8,9 @@ const ContactSection = () => {
     <section id="contact">
       <div className='md:grid md:grid-cols-2 lg:justify-items-center mt-8 py-8 px-4 xl:gap-16 sm:py-16 xl:px-16'>
         <div className="text-left flex flex-col h-full justify-center">
-          <h1 className="text-4xl font-mono text-white my-2">Let's connect</h1>
+          <h1 className="text-4xl font-mono text-white my-2">Let&apos;s connect</h1>
           <p className="text-base lg:text-lg text-[#ADB7BE] mb-6"> 
-            I'm actively seeking new opportunities, so please don't hesitate to reach out if you're interested in collaborating or just want to say hello!
+            I am actively seeking new opportunities, so please do not hesitate to reach out if you are interested in collaborating or just want to say hello!
           </p>
 
           <div className="socials flex flex-row gap-2">
